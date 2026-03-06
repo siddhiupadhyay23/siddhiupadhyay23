@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 A motivated B.Tech Computer Engineering student with a keen passion for UI/UX design and building visually appealing, user-friendly web interfaces. Enjoys transforming ideas into meaningful digital experiences by blending creativity with technical skills. Known for adaptability, continuous learning, and effective teamwork.<br>
 
 
